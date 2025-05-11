@@ -1,4 +1,5 @@
 import 'package:examen/modelos/categoria.dart';
+import 'package:examen/modelos/producto.dart';
 import 'package:examen/modelos/proveedor.dart';
 import 'package:flutter/material.dart';
 
